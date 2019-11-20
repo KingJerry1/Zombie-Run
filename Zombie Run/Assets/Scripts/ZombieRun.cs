@@ -6,13 +6,16 @@ using UnityEngine.UI;
 public class ZombieRun : MonoBehaviour
 {
     [SerializeField] Text textComponent;
-    // Start is called before the first frame update
+    [SerializeField] State startingState;
+
+    State currentState;
+
     void Start()
     {
-        textComponent.text = ("The game starting text");
+        currentState = startingState;
+        textComponent.text = currentState.GetStateStory();
     }
 
-    // Update is called once per frame
     void Update()
     {
         
