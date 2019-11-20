@@ -15,5 +15,8 @@ MonoBehaviour:
   storyText: "Jedziesz samochodem nagle widzisz korek w miejscu gdzie nigdy ich nie
     by\u0142o ,\r\nludzie wysiadaj\u0105 z aut \u017Ceby zobaczy\u0107 co si\u0119
     dzieje.\r\n\r\nCo robisz?\r\n1. Wysiadam z auta prub\xF3j\u0105c zobaczy\u0107
-    co si\u0119 dzieje\r\n2. Wje\u017Cdzam w boczn\u0105 uliczk\u0119 pr\xF3buj\u0105c
+    co si\u0119 dzieje\r\n2. wje\u017Cd\u017Cam w boczn\u0105 uliczk\u0119 pr\xF3buj\u0105c
     znale\u017C\u0107 objazd"
+  nextStates:
+  - {fileID: 11400000, guid: 08a7043ead74c1c4583b7e19063e9311, type: 2}
+  - {fileID: 11400000, guid: 68e1622d53ad2a849a6311130ebb0d96, type: 2}
