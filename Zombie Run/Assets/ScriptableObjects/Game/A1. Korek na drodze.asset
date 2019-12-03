@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 121c16ca87414f54899285a5687d1cae, type: 3}
+  m_Name: A1. Korek na drodze
+  m_EditorClassIdentifier: 
+  storyText: "Jedziesz samochodem nagle widzisz korek w miejscu gdzie nigdy ich nie
+    by\u0142o, ludzie wysiadaj\u0105 z aut \u017Ceby zobaczy\u0107 co si\u0119 dzieje.\r\n\r\nCo
+    robisz?\r\n\r\n1. Wysiadam z auta pr\xF3buj\u0105c zobaczy\u0107 co si\u0119 dzieje\r\n\r\n2.
+    Wje\u017Cd\u017Cam w boczn\u0105 uliczk\u0119 pr\xF3buj\u0105c omin\u0105\u0107
+    korek"
+  nextStates:
+  - {fileID: 11400000, guid: 319187d15600a204bab16ad43e3412c8, type: 2}
+  - {fileID: 11400000, guid: 5a17113e37056d14c8d85d7739404031, type: 2}

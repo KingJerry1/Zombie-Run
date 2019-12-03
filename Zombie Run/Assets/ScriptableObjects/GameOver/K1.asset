@@ -10,10 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 121c16ca87414f54899285a5687d1cae, type: 3}
-  m_Name: StartingState
+  m_Name: K1
   m_EditorClassIdentifier: 
-  storyText: "Witaj w Zombie run.\n\nZaraz zaczniesz swoj\u0105 przygod\u0119. Dokonuj
-    wybor\xF3w za pomoc\u0105 klawiszy 1 albo 2.\n\nJe\u015Bli chcesz wyj\u015B\u0107
-    naci\u015Bnij q\n\nNaci\u015Bnij 1 aby kontynuowa\u0107."
+  storyText: "Pr\xF3ba pomocy ko\u0144czy si\u0119 dla Ciebie tragiczne , ludzie wybiegaj\u0105cy
+    ze sklepu pogry\u017Ali cie na \u015Bmier\u0107 . Do\u0142\u0105czasz do zara\u017Conych
+    to koniec przygody\r\n\n1. Zacznij jeszcze raz\n2. Musz\u0119 zrobi\u0107 chwil\u0119
+    przerwy"
   nextStates:
   - {fileID: 11400000, guid: 02f2df8adbbde874e9c090f2672a9a4a, type: 2}
+  - {fileID: 11400000, guid: 9be70cad578d2de4ba78cf5ea0d1719e, type: 2}

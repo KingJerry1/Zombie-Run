@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 121c16ca87414f54899285a5687d1cae, type: 3}
+  m_Name: "B2. Id\u0105c do sklepu"
+  m_EditorClassIdentifier: 
+  storyText: "Zbli\u017Caj\u0105c si\u0119 do sklepu widzisz wybite okna poprzewracane
+    pu\u0142ki nie wygl\u0105da to ciekawie ale podchodzisz jeszcze bli\u017Cej ,
+    nagle ze sklepu wybiega par\u0119 bardzo dziwnie wygl\u0105daj\u0105cych i zakrwawionych
+    os\xF3b.\r\n\r\nCo robisz?\r\n\r\n1. Biegn\u0119 do domu ile si\u0142 w nogach\r\n\r\n2.
+    Pr\xF3buj\u0119 z nimi porozmawia\u0107 by dowiedzie\u0107 si\u0119 czy wszystko
+    w porz\u0105dku"
+  nextStates:
+  - {fileID: 11400000, guid: 780bb83323465714bb3c0546c33e0558, type: 2}
+  - {fileID: 11400000, guid: 849eb95bd1b391c4182f5f317e41302f, type: 2}

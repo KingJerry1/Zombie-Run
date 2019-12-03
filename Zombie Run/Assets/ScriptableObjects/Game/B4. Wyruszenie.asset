@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 121c16ca87414f54899285a5687d1cae, type: 3}
+  m_Name: B4. Wyruszenie
+  m_EditorClassIdentifier: 
+  storyText: "Zabarykadowa\u0142e\u015B si\u0119 w domu, wygl\u0105da na to \u017Ce
+    jeste\u015B tu bezpieczny. Masz chwil\u0119 \u017Ceby odpocz\u0105\u0107 oraz
+    co\u015B zje\u015B\u0107. Tak mija par\u0119 godzin ,a na zewn\u0105trz zrobi\u0142o
+    si\u0119 w miar\u0119 cicho. Czas wychodzi\u0107 pomimo chwilowego bezpiecze\u0144stwa
+    i tak twoja jedyna nadzieja to wojskowy schron.\r\n\r\nCo robisz?\r\n\r\n1. Udaj\u0119
+    si\u0119 w uliczki aby przedrze\u0107 si\u0119 przez miasto\r\n\r\n2. Wchodz\u0119
+    w studzienk\u0119 kanalizacyjn\u0105, by przemkn\u0105\u0107 si\u0119 przez miasto
+    niezwa\u017Conym"
+  nextStates:
+  - {fileID: 11400000, guid: 87d143f94f23a2b48b4d71233c8f10c5, type: 2}
+  - {fileID: 11400000, guid: 87d143f94f23a2b48b4d71233c8f10c5, type: 2}

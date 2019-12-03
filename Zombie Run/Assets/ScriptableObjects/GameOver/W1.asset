@@ -10,9 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 121c16ca87414f54899285a5687d1cae, type: 3}
-  m_Name: Decision 1
+  m_Name: W1
   m_EditorClassIdentifier: 
-  storyText: This is decision 1
+  storyText: "Po wyj\u015Bciu z oczyszczalni nie napotka\u0142e\u015B ,\u017Cadnych
+    zombie. Par\u0119 minut drogi i by\u0142e\u015B ju\u017C w bazie wojskowej gdzie
+    mog\u0142e\u015B si\u0119 schroni\u0107. Jeste\u015B bezpieczny NA RAZIE\n\n1.
+    Zacznij jeszcze raz\n2. Musz\u0119 nacieszy\u0107 si\u0119 zwycienstwem"
   nextStates:
-  - {fileID: 11400000, guid: 68e1622d53ad2a849a6311130ebb0d96, type: 2}
+  - {fileID: 11400000, guid: 02f2df8adbbde874e9c090f2672a9a4a, type: 2}
   - {fileID: 11400000, guid: 9be70cad578d2de4ba78cf5ea0d1719e, type: 2}

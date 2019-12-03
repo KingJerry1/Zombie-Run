@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 121c16ca87414f54899285a5687d1cae, type: 3}
+  m_Name: A3. Gryzonie
+  m_EditorClassIdentifier: 
+  storyText: "Podchodz\u0105c bli\u017Cej widzisz jak ludzie si\u0119 gryz\u0105 nawzajem,
+    zanim zd\u0105\u017Cy\u0142e\u015B zareagowa\u0107 widzisz jak par\u0119 os\xF3b
+    biegnie w twoj\u0105 stron\u0119. Bez zastanowienia zaczynasz biec. Dobiegaj\u0105c
+    do swojego auta dostrzegasz ,\u017Ce jest ju\u017C zablokowane w korku.\r\n\r\nCo
+    robisz?\r\n\r\n1. Wsiadam do auta zamykaj\u0105c drzwi\r\n\r\n2. Wbiegam w boczne
+    uliczki pr\xF3buj\u0105c zgubi\u0107 po\u015Bcig"
+  nextStates:
+  - {fileID: 11400000, guid: efd4d3d9a0c684b4d9db28cb4e71789a, type: 2}
+  - {fileID: 11400000, guid: e881a43b0a7bbf14cadd80fcc38f8c1c, type: 2}

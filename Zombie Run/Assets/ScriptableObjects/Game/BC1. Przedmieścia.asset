@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 121c16ca87414f54899285a5687d1cae, type: 3}
+  m_Name: "BC1. Przedmie\u015Bcia"
+  m_EditorClassIdentifier: 
+  storyText: "Idziesz ju\u017C par\u0119dziesi\u0105t minut ,a zm\u0119czenie przez
+    wydarzenia dzisiejszego dnia daj\u0105 Ci ju\u017C si\u0119 we znaki. Ale w ko\u0144cu
+    dotar\u0142e\u015B do przed mie\u015Bci. My\u015Blisz ,\u017Ce teraz ju\u017C
+    z g\xF3rki gdy nagle widzisz w oddali spor\u0105 grup\u0119 zombie\r\n\r\nCo robisz?\r\n\r\n1.
+    Spr\xF3buje ich omin\u0105\u0107 to najlepsze wyj\u015Bcie w tym momencie\r\n\r\n2.
+    Schowam si\u0119 w jakim\u015B domu i poczekam na rozw\xF3j wydarze\u0144"
+  nextStates:
+  - {fileID: 11400000, guid: c3aae9e039babb84bb553e512f82bb54, type: 2}
+  - {fileID: 11400000, guid: 2d051fba5490f8e4495b4c758e78d21c, type: 2}

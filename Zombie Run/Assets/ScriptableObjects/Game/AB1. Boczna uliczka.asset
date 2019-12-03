@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 121c16ca87414f54899285a5687d1cae, type: 3}
+  m_Name: AB1. Boczna uliczka
+  m_EditorClassIdentifier: 
+  storyText: "Wje\u017Cd\u017Caj\u0105c w boczn\u0105 uliczk\u0119 uda\u0142o Ci si\u0119
+    przejecha\u0107 par\u0119 przecznic i min\u0105\u0107 centrum ale dalej ju\u017C
+    nie przejedziesz bo nie by\u0142e\u015B jedyn\u0105 osob\u0105 kt\xF3ra zdecydowa\u0142a
+    si\u0119 na ten objazd.\r\n\r\nCo robisz?\r\n\r\n1. Zostaj\u0119 w aucie przecie\u017C
+    to zwyk\u0142y korek zaraz powinien ruszy\u0107\r\n\r\n2. Wysiadam z auta i pr\xF3buj\u0119
+    dosta\u0107 si\u0119 dalej pieszo"
+  nextStates:
+  - {fileID: 11400000, guid: a32e17fc9d31a294d9ac74aea6770178, type: 2}
+  - {fileID: 11400000, guid: 780bb83323465714bb3c0546c33e0558, type: 2}
